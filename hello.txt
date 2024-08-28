@@ -1,8 +1,6 @@
 hello dj, hello git! 22222
 hello dj, hello git! 33333
-hello git!
 hello dj, hello git!
-hello git!
 hello dj, hello git!
 hello dj, hello git!
 hello dj, hello git!
@@ -13,4 +11,4 @@ hello dj, hello git!
 hello dj, hello git!
 hello dj, hello git!
 hello dj, hello git! master test
-hello dj, hello git!
+hello dj, hello git! hot-fix test
